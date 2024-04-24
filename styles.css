@@ -1,0 +1,16 @@
+#display {
+    font-size: 100px;
+    font-weight: bold;
+    color: blue;
+    margin-top: 250px;
+    text-align: center;
+}
+
+#getBtn{
+    background: black;
+    width: 250px;
+    height: 50px;
+    color: white;
+    font-size: 25px;
+}
+
